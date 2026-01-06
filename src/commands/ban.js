@@ -2,9 +2,7 @@ const {
     EmbedBuilder,
     SlashCommandBuilder,
   } = require("discord.js");
-  const { QuickDB } = require(`quick.db`);
-  const db = new QuickDB();
-
+ 
   module.exports = {
     data: new SlashCommandBuilder()
     .setName("ban")
@@ -30,6 +28,5 @@ const {
             return;
         })
         
-        db.add(`bans_${member}`, 1)
     }
   }

@@ -7,7 +7,6 @@
   "dependencies": {
     "@discordjs/rest": "^1.7.0",
     "@napi-rs/canvas": "^0.1.44",
-    "better-sqlite3": "^8.7.0",
     "chalk-advanced": "^1.0.6",
     "discord-api-types": "^0.37.38",
     "discord-gamecord": "^4.4.1",
@@ -16,7 +15,6 @@
     "emoji-aware": "^3.1.0",
     "mongoose": "^7.5.3",
     "prettier": "^3.0.2",
-    "quick.db": "^9.1.7",
     "superagent": "^8.1.2"
   },
   "devDependencies": {

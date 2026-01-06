@@ -2,9 +2,7 @@ const {
     EmbedBuilder,
     SlashCommandBuilder,
   } = require("discord.js");
-  const { QuickDB } = require(`quick.db`);
-  const db = new QuickDB();
-
+  
   module.exports = {
     data: new SlashCommandBuilder()
     .setName("warn")
@@ -29,7 +27,5 @@ const {
         await member.send({ embeds: [dmEmbed] }).catch(err => {
             return;
         })
-        
-        db.add(`warns_${member}`, 1)
-    }
+            }
   }
