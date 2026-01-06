@@ -22,7 +22,7 @@ const {
        
         const embed = new EmbedBuilder()
         .setColor("Red")
-        .setDescription(`<a:warning:1126947077960765631> | rip ${member.tag} has been **banned** for ${reason}, what a bozo`)
+        .setDescription(`<a:warning:1126947077960765631> | rip <@${member.tag}> has been **banned** for ${reason}, what a bozo`)
         
         await interaction.reply({ embeds: [embed] });
 
