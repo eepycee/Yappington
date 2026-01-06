@@ -16,11 +16,11 @@ module.exports = {
     
     async execute (interaction) {
         await interaction.deferReply({ ephmeral: false });
-        const output = await superagent.get('https://api.kanye.rest/text');
+        const output = await superagent.get('https://api.kanye.rest/');
 
         const embed= new EmbedBuilder()
             .setColor("#5865f4")
-            .setTitle(`**${yeye[(Math.floor(Math.random() * answer.length))]} Once Said:**`)
+            .setTitle(`**${yeye[(Math.floor(Math.random() * yeye.length))]} Once Said:**`)
             .setDescription(`${output.body.quote}`)
             .setTimestamp();
 
