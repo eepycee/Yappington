@@ -5,7 +5,7 @@ const {
 
 const superagent = require("superagent");
 
-let yeye = ["Kanye", "Kanye West", "Mr West", "Ye", "Ye Ye", "Nitrous King", "Yeezy", "Yeezus", "Saint Pablo", "Louis Vuitton Don", "This generation's closest thing to Einstein", "Malcolm West", "Ain't one of the Cosby's", "The abomination of Obama's nation", "Kan The Louis Vuitton Don", "Swag King Cole", "KanYeezy", "Steve Jobs mixed with Steve Austin", "A god"];
+let yeye = ["Kanye", "Kanye West", "Mr West", "Ye", "Ye Ye", "Nitrous King", "Yeezy", "Yeezus", "Saint Pablo", "Louis Vuitton Don", "This generation's closest thing to Einstein", "Malcolm West", "Ain't one of the Cosby's", "The abomination of Obama's nation", "Kan The Louis Vuitton Don", "Swag King Cole", "KanYeezy", "Steve Jobs mixed with Steve Austin", "A god", "Shakespeare in the flesh", "#1 most impactful artist of our generation"];
 
 require("dotenv").config();
 
