@@ -13,8 +13,8 @@ const {
         const member = interaction.options.getUser('user');
     
         const embed = new EmbedBuilder()
-        .setColor("Red")
-        .setDescription(`<@${member.tag}> just got a cookie! what a good individual of unspecified gender!`)
+        .setColor("Green")
+        .setDescription(`<@${member.id}> just got a cookie! yummy!! <a:meow_cookie:1458280998428213384>`)
         
         await interaction.reply({ embeds: [embed] });
         }

@@ -20,7 +20,7 @@ const {
        
         const embed = new EmbedBuilder()
         .setColor("Yellow")
-        .setDescription(`<a:warning:1126947077960765631> | lol <@${member.tag}> has been **warned** for ${reason}`)
+        .setDescription(`<a:warning:1126947077960765631> | lol <@${member.id}> has been **warned** for ${reason}`)
         
         await interaction.reply({ embeds: [embed] });
 
