@@ -1,3 +1,6 @@
+> [!CAUTION]
+> You are currently on the **`develop`** branch of Yappington. The bot may not function as intended, and this is designed only for experimental additions to the bot that aren't stable enough to be brought into the `main` branch
+
 # Yappington
 A cool open-source bot designed for friend group fun! Probably better than MEE6 ever could be :trollface:
 
