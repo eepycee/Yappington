@@ -28,7 +28,7 @@ module.exports = async (client) => {
           body: commands,
         });
         console.log(
-          `${ChalkAdvanced.white("KuromiBot")} ${ChalkAdvanced.gray(
+          `${ChalkAdvanced.white("Yappington")} ${ChalkAdvanced.gray(
             ">",
           )} ${ChalkAdvanced.green(
             "Successfully registered commands globally",
@@ -43,7 +43,7 @@ module.exports = async (client) => {
         );
 
         console.log(
-          `${ChalkAdvanced.white("KuromiBot")} ${ChalkAdvanced.gray(
+          `${ChalkAdvanced.white("Yappington")} ${ChalkAdvanced.gray(
             ">",
           )} ${ChalkAdvanced.green(
             "Successfully registered commands locally",
