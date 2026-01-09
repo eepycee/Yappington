@@ -44,7 +44,7 @@ Your final step is to up the bot! Should everything be working, `npm run start` 
 ## Acknowledgments
 This project couldn't have been made without the following people:
 * **You**: For checking this repository out, really appreciated!
-* **[KuromiBot](https://github.com/KuromiBot/KuromiBot)**: We forked this bih! 🗣️🔥‼️
+* **[KuromiBot](https://github.com/eepycee/Yappington)**: We forked this bih! 🗣️🔥‼️
 * **[mezotv](https://github.com/mezotv)** - The author of the amazing [discord.js template](https://github.com/mezotv/Discord-Bot-Template) that actually helped me get this thing here
 * **[discord.js](https://github.com/discordjs/discord.js)** - discord.js API wrapper
 * **Our beautiful contributors!**
@@ -53,13 +53,13 @@ And many, many more package authors, Stack Overflow members, Discord users, and 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/KuromiBot/KuromiBot.svg?color=8ae8ff&labelColor=black&style=flat-square
-[contributors-url]: https://github.com/KuromiBot/KuromiBot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/KuromiBot/KuromiBot.svg?color=8ae8ff&labelColor=black&style=flat-square
-[forks-url]: https://github.com/KuromiBot/KuromiBot/network/members
-[stars-shield]: https://img.shields.io/github/stars/KuromiBot/KuromiBot.svg?color=8ae8ff&labelColor=black&style=flat-square
-[stars-url]: https://github.com/KuromiBot/KuromiBot/stargazers
+[contributors-shield]: https://img.shields.io/github/contributors/eepycee/Yappington.svg?color=8ae8ff&labelColor=black&style=flat-square
+[contributors-url]: https://github.com/eepycee/Yappington/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/eepycee/Yappington.svg?color=8ae8ff&labelColor=black&style=flat-square
+[forks-url]: https://github.com/eepycee/Yappington/network/members
+[stars-shield]: https://img.shields.io/github/stars/eepycee/Yappington.svg?color=8ae8ff&labelColor=black&style=flat-square
+[stars-url]: https://github.com/eepycee/Yappington/stargazers
 [issues-shield]: https://img.shields.io/github/forks/eepycee/Yappington?color=8ae8ff&labelColor=black&style=flat-square
-[issues-url]: https://github.com/KuromiBot/KuromiBot/issues
-[license-shield]: https://img.shields.io/github/license/KuromiBot/KuromiBot.svg?color=8ae8ff&labelColor=black&style=flat-square
-[license-url]: https://github.com/KuromiBot/KuromiBot/blob/master/LICENSE
+[issues-url]: https://github.com/eepycee/Yappington/issues
+[license-shield]: https://img.shields.io/github/license/eepycee/Yappington.svg?color=8ae8ff&labelColor=black&style=flat-square
+[license-url]: https://github.com/eepycee/Yappington/blob/master/LICENSE
